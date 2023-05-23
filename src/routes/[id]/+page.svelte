@@ -52,7 +52,7 @@
     }
 
     .last {
-        background-color: gray;
+        background-color: rgb(188, 188, 188);
         width: 20%;
         padding: 1rem;
         border-radius: 1rem;

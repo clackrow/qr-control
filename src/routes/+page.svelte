@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Olá</h1>
+<p>Esse é um app desenvolvido por Rodrigo Azzolini</p>
+<img src="https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif" alt="">
